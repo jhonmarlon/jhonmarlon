@@ -1,5 +1,16 @@
-## Hi there, I'm John👋
+<h1 align="center">Hi 👋, I'm John Marlon Montoya Escobar</h1>
 
-I'm John Marlon Montoya Escobar, a Senior Full Stack Software Engineer with 8+ years of experience building scalable web applications, enterprise systems and backend architectures using TypeScript, Node.js, NestJS, React and Vue.js.
+<h3 align="center">
+Senior Full Stack Software Engineer specialized in scalable backend systems,
+clean architecture and modern TypeScript ecosystems.
+</h3>
 
-I enjoy designing maintainable systems, scalable APIs and clean software architectures focused on long-term sustainability and developer productivity.
+<p align="center">
+Building enterprise-grade applications with Node.js, NestJS, React, Vue.js and cloud-oriented solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jhonmarlon">
+    <img src="https://komarev.com/ghpvc/?username=jhonmarlon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
