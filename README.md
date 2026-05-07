@@ -100,19 +100,22 @@ I believe software should be:
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonmarlon&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonmarlon&theme=tokyonight&hide_border=true" />
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=jhonmarlon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  />
 </p>
 
 <p align="center">
   <img 
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmarlon&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
+
 
 ---
 
